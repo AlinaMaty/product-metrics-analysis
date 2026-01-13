@@ -1,31 +1,29 @@
-# Product Metrics Analysis
+# Анализ продуктовых метрик
 
-## 📌 Project Overview
-This project analyzes user behavior in a mobile application to evaluate key product metrics.
+## 📌 Описание проекта
+Проект посвящён анализу пользовательского поведения в мобильном приложении с целью оценки ключевых продуктовых метрик.
 
-## 🎯 Goals
-- Analyze user activity
-- Calculate conversion rate
-- Calculate ARPU
-- Evaluate user retention
+## 🎯 Цели анализа
+- Оценить активность пользователей
+- Рассчитать конверсию в покупку
+- Рассчитать ARPU
+- Проанализировать удержание пользователей (Retention)
 
-## 🛠 Tools
+## 🛠 Используемые инструменты
 - Python
 - pandas
 - matplotlib
 
-## 📊 Metrics
-- DAU
+## 📊 Анализируемые метрики
+- DAU (Daily Active Users)
 - Conversion Rate
-- ARPU
+- ARPU (Average Revenue Per User)
 - Retention
 
-## 📈 Key Insights
-- Conversion rate from install to purchase
-- Average revenue per user
-- Drop in user activity after registration
+## 📈 Основные выводы
+- Рассчитана конверсия пользователей из установки в покупку
+- Определено среднее значение выручки на пользователя
+- Выявлено снижение активности пользователей после регистрации
 
-## 💡 Business Recommendations
-- Improve onboarding experience
-- Use push notifications to increase retention
-- Run A/B tests to improve conversion
+## 💡 Рекомендации для бизнеса
+- Улучшит
